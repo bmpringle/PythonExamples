@@ -1,4 +1,4 @@
-an_int = 5  
-a_string = "hi"
-print(an_int)
-print(a_string)
+an_int_or_is_it = 5  
+print(an_int_or_is_it)
+an_int_or_is_it = "hi"
+print(an_int_or_is_it)
